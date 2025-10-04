@@ -5,21 +5,21 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '4rem'
 
 # Page sections
 sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Here are a selection of some projects that I have worked on over the years by God's grace.
       filters:
         folders:
           - projects
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 4
       show_date: false
       show_read_time: false
       show_read_more: false
