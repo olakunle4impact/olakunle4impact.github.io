@@ -8,6 +8,15 @@ appearance:
   mode: system
   color: indigo
 
+# Website branding
+logo:
+  # Your custom logo file inside static/media/
+  path: "media/logo.png"
+  alt: "OJ"
+
+favicon:
+  path: "media/logo.png"
+
 # SEO
 marketing:
   seo:
