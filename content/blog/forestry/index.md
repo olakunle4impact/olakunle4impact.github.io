@@ -39,7 +39,7 @@ Analysts integrate these datasets to monitor forest change, estimate biomass, de
 
 ---
 
-## 🧠 Why Forestry Data Analysis Matters
+## Why Forestry Data Analysis Matters
 
 ### 1. **Improving Forest Management**
 
@@ -65,7 +65,7 @@ Reliable forest data allows policymakers to design evidence-based interventions 
 
 ---
 
-## 🛰️ Tools and Techniques Used in Forestry Data Analysis
+## Tools and Techniques Used in Forestry Data Analysis
 
 Forestry data analysis is a multidisciplinary field that blends ecology, statistics, GIS, and computer science. Below are common tools and methods:
 
@@ -76,3 +76,7 @@ Forestry data analysis is a multidisciplinary field that blends ecology, statist
 | **Machine Learning** | Random Forest, XGBoost, CNNs | Predicting forest types, biomass, or disturbance |
 | **Spatial Analysis** | GDAL, sf, raster (R packages) | Managing and analyzing spatial data |
 | **Visualization** | ggplot2, Leaflet, Plotly | Creating maps and interactive dashboards |
+
+## Useful resources
+{{< button url="https://www.finley-lab.com/ifdar/" new_tab="true" style="secondary" rounded="full" align="center" >}}ForestryData Analysis{{< /button >}}
+
