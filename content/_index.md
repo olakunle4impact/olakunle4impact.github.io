@@ -3,8 +3,6 @@
 title: ''
 date: 2025-10-02
 type: landing
-image:
-  filename: "media/logo.png"
 
 design:
   # Default section spacing
