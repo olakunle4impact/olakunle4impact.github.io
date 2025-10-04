@@ -16,7 +16,7 @@ image:
 
 ## Introduction
 
-Forests are among Earth’s most vital ecosystems — providing oxygen, storing carbon, protecting biodiversity, and supporting livelihoods for millions. Yet, as climate change, deforestation, and land degradation accelerate, the need for **data-driven decision-making in forestry** has never been more urgent. This is where **forestry data analysis** comes in.
+Forests are among Earth’s most vital ecosystems providing oxygen, storing carbon, protecting biodiversity, and supporting livelihoods for millions. Yet, as climate change, deforestation, and land degradation accelerate, the need for **data-driven decision-making in forestry** has never been more urgent. This is where **forestry data analysis** comes in.
 
 By applying modern analytical methods, from statistics and machine learning to GIS and remote sensing, researchers and managers can quantify forest dynamics, model growth patterns, and predict the impacts of human and natural disturbances.
 
@@ -35,7 +35,7 @@ Data sources in forestry typically include:
 - **Environmental variables:** Climate, soil type, elevation, and human pressure.
 - **Socio-economic data:** Land ownership, land use history, and policy context.
 
-Analysts integrate these datasets to monitor forest change, estimate biomass, detect disturbances, and model ecosystem processes across scales — from local stands to entire biomes.
+Analysts integrate these datasets to monitor forest change, estimate biomass, detect disturbances, and model ecosystem processes across scales, from local stands to entire biomes.
 
 ---
 
@@ -55,7 +55,7 @@ Example: Modeling carbon sequestration potential using forest biomass and soil c
 
 ### 3. **Assessing Disturbance and Recovery**
 
-Through time-series analysis, researchers track post-fire recovery, disease outbreaks, and deforestation trends — supporting proactive interventions.
+Through time-series analysis, researchers track post-fire recovery, disease outbreaks, and deforestation trends, supporting proactive interventions.
 
 Example: Using Sentinel-2 imagery and the Normalized Burn Ratio (NBR) to monitor vegetation regrowth after wildfires.
 
