@@ -7,10 +7,6 @@
 appearance:
   mode: system
   color: indigo
-  logo: # Website branding
-  # Your custom logo file inside static/media/
-  path: "media/logo.png"
-  alt: "OJ"
   favicon:
   path: "media/logo.png"
 
@@ -41,9 +37,9 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'OJ'
-      image: 'media/logo.png'
-      image_dark: 'media/logo.png'
+      path: "media/logo.png"
+      alt: "OJ"
+      
 
 # Site footer
 footer:
